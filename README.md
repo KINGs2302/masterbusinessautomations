@@ -1,6 +1,6 @@
 # Master Business Automations
 
-Simple, Apple-inspired translucent (frosted glass) static website for **Master Business Automations** (*E2E Project & Supply*).
+Simple, **Master Business Automations** (*E2E Project & Supply*).
 
 ## Features
 
